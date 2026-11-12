@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+}
+
+header,
+footer {
+    padding: 10px 0;
+    background-color: #333;
+    font-size: 1.5rem;
+    color: white;
+    text-align: center;
+}
+
+main {
+    width: 400px;
+    margin: 0 auto;
+    border: 0;
+    padding: auto;
+
+}
+
+h1 {
+    margin: 10px;
+    text-align: center;
+}
+
+h2 {
+    border-bottom: 1px solid #222;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    box-shadow: 0 0 30px gray;
+}
+
+section {
+    margin: 20px 0;
+    border: 1px solid rgb(0 0 0 / 10%);
+    padding: 10px;
+    background-color: #ddd;
+}
+
+section p {
+    margin: 10px;
+}
+
+footer {
+    font-size: .9rem;
+}
